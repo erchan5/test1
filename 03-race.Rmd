@@ -1,3 +1,5 @@
 # Contact Us
 
-i can make text (_BOLD_)
+i can make text __BOLD__
+
+see, like this: __MCL ROCKS__
