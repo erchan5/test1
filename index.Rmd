@@ -1,9 +1,11 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Testing Bookdown for UCSF MCL"
+author: "Erica Chan"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Welcome
+
+hello! look at this cool thing i'm trying to learn -erica
 
